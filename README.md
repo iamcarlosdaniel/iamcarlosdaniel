@@ -13,9 +13,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - jun. 2023 - actualidad
 - Travel es una emocionante plataforma de turismo que está diseñada para empoderar a los viajeros y entusiastas de la exploración 🌍, brindándoles la capacidad de crear rutas personalizadas para sus aventuras 🗺️. Con esta innovadora aplicación 📱, hemos redefinido la forma en que las personas planifican y experimentan sus viajes ✨, ofreciendo una experiencia única y completamente adaptable 🌟.
 
-<div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/travel_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
-</div>
+[![imagotipo_white](https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/travel_imagotipo_white_200x100px.png)](https://github.com/iamcarlosdaniel/CORE)
 
 - 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/CORE)
 
@@ -25,9 +23,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - jun. 2023 - actualidad
 - C.O.R.E. (Component Online Resource for Electronics) es una biblioteca en línea gratuita diseñada para proporcionar a los estudiantes acceso a documentación confiable sobre componentes electrónicos. 📚 Ya sea que estés comenzando con la electrónica o tengas experiencia en el campo, C.O.R.E. es un recurso valioso que puede ayudarte a encontrar información detallada sobre una amplia gama de componentes. 💡🔍
 
-<div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/core_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
-</div>
+[![imagotipo_white](https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/core_imagotipo_white_200x100px.png)](https://github.com/iamcarlosdaniel/CORE)
 
 - 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/CORE)
 
@@ -37,9 +33,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 - sept. 2022 - nov. 2022
 - TheWeather es una aplicación web minimalista para consultar el clima actual de cualquier ubicación. Utiliza HTML, CSS y JavaScript para proporcionar una interfaz intuitiva y fácil de usar. Con esta aplicación, podrás obtener información actualizada sobre la temperatura 🌡️, condiciones climáticas ☁️ y humedad 💧 de cualquier ciudad del mundo 🌍.
 
-<div style="text-align: left;">
-    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/theweather_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
-</div>
+[![imagotipo_white](https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/theweather_imagotipo_white_200x100px.png)](https://github.com/iamcarlosdaniel/TheWeather)
 
 - 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/TheWeather)
 
