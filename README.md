@@ -1,62 +1,68 @@
-### Hi there 👋
+# ¡Hola, soy Carlos Daniel! 👋
 
-<!--
-**iamcarlosdaniel/iamcarlosdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# ¡Hola, soy [Tu Nombre]! 👋
-
-Soy [tu profesión o título] apasionado por [tus intereses]. Bienvenido a mi rincón en GitHub, donde encontrarás una variedad de proyectos interesantes y contribuciones a la comunidad. ¡Espero que encuentres algo que te inspire!
-
-## Sobre mí
-
-- 🌟 [Breve descripción sobre ti y tus intereses]
-- 🎓 Graduado de [tu universidad o institución] en [tu área de estudio]
+```
+<HELLO WORLD!/>
+I am Studying Computer Systems Engineering
+```
 
 ## Proyectos Destacados
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- 🚀 [Proyecto 1]: Breve descripción del proyecto y enlace al repositorio.
-- 🌐 [Proyecto 2]: Breve descripción del proyecto y enlace al repositorio.
-- ⚙️ [Proyecto 3]: Breve descripción del proyecto y enlace al repositorio.
+### 🛩️ Travel
+- jun. 2023 - actualidad
+- Travel es una emocionante plataforma de turismo que está diseñada para empoderar a los viajeros y entusiastas de la exploración 🌍, brindándoles la capacidad de crear rutas personalizadas para sus aventuras 🗺️. Con esta innovadora aplicación 📱, hemos redefinido la forma en que las personas planifican y experimentan sus viajes ✨, ofreciendo una experiencia única y completamente adaptable 🌟.
 
-Puedes explorar todos mis proyectos en mi [perfil de GitHub](https://github.com/TuNombre).
+<div style="text-align: left;">
+    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/travel_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
+</div>
 
-## Contribuciones
+- 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/CORE)
 
-Me encanta colaborar con la comunidad open source. Algunas de mis contribuciones incluyen:
+---
 
-- 🌐 [Contribución 1]: Breve descripción de la contribución y enlace al repositorio.
-- ⚡️ [Contribución 2]: Breve descripción de la contribución y enlace al repositorio.
-- 📚 [Contribución 3]: Breve descripción de la contribución y enlace al repositorio.
+### 🌍 C.O.R.E. 
+- jun. 2023 - actualidad
+- C.O.R.E. (Component Online Resource for Electronics) es una biblioteca en línea gratuita diseñada para proporcionar a los estudiantes acceso a documentación confiable sobre componentes electrónicos. 📚 Ya sea que estés comenzando con la electrónica o tengas experiencia en el campo, C.O.R.E. es un recurso valioso que puede ayudarte a encontrar información detallada sobre una amplia gama de componentes. 💡🔍
+
+<div style="text-align: left;">
+    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/core_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
+</div>
+
+- 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/CORE)
+
+-----
+
+### 🌦️ TheWeather 
+- sept. 2022 - nov. 2022
+- TheWeather es una aplicación web minimalista para consultar el clima actual de cualquier ubicación. Utiliza HTML, CSS y JavaScript para proporcionar una interfaz intuitiva y fácil de usar. Con esta aplicación, podrás obtener información actualizada sobre la temperatura 🌡️, condiciones climáticas ☁️ y humedad 💧 de cualquier ciudad del mundo 🌍.
+
+<div style="text-align: left;">
+    <img src="https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/theweather_imagotipo_white_200x100px.png" alt="" style="margin-left: 30px; margin-top: 10px; margin-bottom: 10px;">
+</div>
+
+- 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/TheWeather)
+
+Puedes explorar todos mis proyectos en mi [perfil de GitHub](https://github.com/iamcarlosdaniel).
 
 ## Lenguajes y Tecnologías
 
 Aquí tienes algunas de las tecnologías con las que trabajo:
 
-- 💻 [Tecnología 1]: Breve descripción de la tecnología.
-- 🌐 [Tecnología 2]: Breve descripción de la tecnología.
-- 📊 [Tecnología 3]: Breve descripción de la tecnología.
+- 💻 **HTML/CSS:** Amplia experiencia en la creación de sitios web y aplicaciones web utilizando HTML y CSS para el diseño y la presentación.
+- 🌐 **JavaScript (JS):** Desarrollo de aplicaciones interactivas y dinámicas con JavaScript para mejorar la experiencia del usuario en la web.
+- 🅱️ **Bootstrap 5:** Utilizo Bootstrap 5 para agilizar el proceso de diseño y crear interfaces atractivas y responsivas.
+- 🚀 **Node.js:** Desarrollo de aplicaciones del lado del servidor y API utilizando Node.js, aprovechando su eficiencia y escalabilidad.
+- ⚛️ **React.js:** Construcción de aplicaciones de una sola página (SPA) y componentes reutilizables utilizando React.js.
+- 🚀 **Next.js:** Creación de aplicaciones web de alto rendimiento y SEO-friendly con Next.js para React.
+- 🐦 **C++:** Programación en C++ para aplicaciones de alto rendimiento y desarrollo de software de sistemas.
+- 🔷 **C#:** Experiencia en el desarrollo de aplicaciones de escritorio y juegos utilizando C# y la plataforma .NET.
 
 ## Contacto
 
 ¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
-- 📧 [Email]: tu@email.com
-- 🐦 [Twitter](https://twitter.com/TuTwitter)
-- 💼 [LinkedIn](https://www.linkedin.com/in/TuLinkedIn)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamcarlosdaniel)
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante aquí. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 
 
