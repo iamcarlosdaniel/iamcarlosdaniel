@@ -15,7 +15,7 @@ Aquí tienes algunos de mis proyectos más destacados:
 
 [![imagotipo_white](https://raw.githubusercontent.com/iamcarlosdaniel/iamcarlosdaniel/main/assets/travel_imagotipo_white_200x100px.png)](https://github.com/iamcarlosdaniel/CORE)
 
-- 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/CORE)
+- 📁 [Repositorio en GitHub](https://github.com/iamcarlosdaniel/Travel)
 
 ---
 
