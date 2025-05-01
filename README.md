@@ -8,55 +8,40 @@ Currently studying Computer Systems Engineering at the University of Valle (grad
 
 I'm looking to apply my skills in a professional setting and connect with other web development experts, mentors, and industry leaders. Feel free to reach out for potential collaborations!
 
-## Convención de nombres en los repositorios
+## Naming Convention in the Repositories
 
-Los repositorios en este perfil están organizados según su propósito. Para facilitar la búsqueda, he establecido una convención de nombres que refleja el enfoque de cada proyecto.
+The repositories in this profile are organized according to their purpose. To make them easier to find, I’ve established a naming convention that reflects each project’s focus.
 
-#### 1. Proyectos orientados al aprendizaje
+#### 1. Learning-Oriented Projects
 
-Estos repositorios documentan mi proceso de aprendizaje sobre distintas tecnologías. Sus nombres siguen el siguiente esquema:
+These repositories document my learning process with different technologies. Their names follow this pattern:
 
-<div align="center">
-  `project_name - client/server - interface_type - language/base - stack/extra`
-</div>
+![](assets/naming_convention_one.png)
 
-**Ejemplo:**
-
-<div align="center">
-  `basic-todo-list - server - api - node - firebase`
-</div>
+> [!TIP]
+> An example of this naming convention can be found in the following project: [basic-todo-list-server-api-node-mongodb](https://github.com/iamcarlosdaniel/basic-todo-list-server-api-node-mongodb).
 
 ---
 
-#### 2. Proyectos centrados en arquitectura
+#### 2. Architecture-Focused Projects
 
-En este caso, el objetivo es mostrar cómo está estructurado el proyecto desde un punto de vista arquitectónico. No se incluye la tecnología utilizada en el nombre, sino la arquitectura aplicada.
+In this case, the goal is to showcase the project's structure from an architectural point of view. The name doesn’t include the technologies used, but rather the applied architecture.
 
-<div align="center">
-  `project_name - client/server - interface_type - architecture`
-</div>
+![](assets/naming_convention_two.png)
 
-**Ejemplo:**
-
-<div align="center">
-  `keep - server- api - three-tier`
-</div>
+> [!TIP]
+> An example of this naming convention can be found in the following project: [keep-server-api-three-tier](https://github.com/iamcarlosdaniel/keep-server-api-three-tier).
 
 ---
 
-#### 3. Proyectos con enfoque en producción
+#### 3. Production-Focused Projects
 
-Estos repositorios están pensados para estar más cerca de un producto terminado. No especifican arquitectura, tecnología ni stack en el nombre, solo el nombre del proyecto.
+These repositories are focused on solutions that are closer to a production environment. They do not include details about the architecture, technology, or stack in the name, but they do specify whether the project is client-side or server-side, as well as the type of interface used, along with the project name.
 
-<div align="center">
-  `project_name`
-</div>
+![](assets/naming_convention_three.png)
 
-**Ejemplo:**
-
-<div align="center">
-  `the-weather`
-</div>
+> [!TIP]
+> An example of this naming convention can be found in the following project: [keep-server-api-three-tier](https://github.com/iamcarlosdaniel/the-weather-client-web).
 
 ---
 
