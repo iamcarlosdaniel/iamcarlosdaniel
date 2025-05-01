@@ -7,6 +7,8 @@
   <a href="https://iamcarlosdaniel.com">iamcarlosdaniel.com</a>
 </div>
 
+<br/>
+
 Hi, I'm Carlos Daniel, a passionate web development student eager to grow in the digital world. I have solid knowledge of JavaScript, C++, NodeJS, Express, React, MongoDB, MySQL, and Firebase, with a focus on web design and backend development.
 
 Currently studying Computer Systems Engineering at the University of Valle (graduating December 2025), I’m motivated to join a collaborative team where I can contribute my energy and learn from experienced professionals.
