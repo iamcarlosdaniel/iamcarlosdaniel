@@ -41,7 +41,7 @@ These repositories are focused on solutions that are closer to a production envi
 ![](assets/naming_convention_three.png)
 
 > [!TIP]
-> An example of this naming convention can be found in the following project: [keep-server-api-three-tier](https://github.com/iamcarlosdaniel/the-weather-client-web).
+> An example of this naming convention can be found in the following project: [the-weather-client-web](https://github.com/iamcarlosdaniel/the-weather-client-web).
 
 ---
 
