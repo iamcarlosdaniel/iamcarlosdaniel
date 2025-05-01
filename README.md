@@ -77,5 +77,3 @@ These repositories are focused on solutions that are closer to a production envi
 
 > [!TIP]
 > An example of this naming convention can be found in the following project: [the-weather-client-web](https://github.com/iamcarlosdaniel/the-weather-client-web).
-
----
