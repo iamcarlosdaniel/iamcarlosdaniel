@@ -8,6 +8,58 @@ Currently studying Computer Systems Engineering at the University of Valle (grad
 
 I'm looking to apply my skills in a professional setting and connect with other web development experts, mentors, and industry leaders. Feel free to reach out for potential collaborations!
 
+## Convención de nombres en los repositorios
+
+Los repositorios en este perfil están organizados según su propósito. Para facilitar la búsqueda, he establecido una convención de nombres que refleja el enfoque de cada proyecto.
+
+#### 1. Proyectos orientados al aprendizaje
+
+Estos repositorios documentan mi proceso de aprendizaje sobre distintas tecnologías. Sus nombres siguen el siguiente esquema:
+
+<div align="center">
+  `project_name - client/server - interface_type - language/base - stack/extra`
+</div>
+
+**Ejemplo:**
+
+<div align="center">
+  `basic-todo-list - server - api - node - firebase`
+</div>
+
+---
+
+#### 2. Proyectos centrados en arquitectura
+
+En este caso, el objetivo es mostrar cómo está estructurado el proyecto desde un punto de vista arquitectónico. No se incluye la tecnología utilizada en el nombre, sino la arquitectura aplicada.
+
+<div align="center">
+  `project_name - client/server - interface_type - architecture`
+</div>
+
+**Ejemplo:**
+
+<div align="center">
+  `keep - server- api - three-tier`
+</div>
+
+---
+
+#### 3. Proyectos con enfoque en producción
+
+Estos repositorios están pensados para estar más cerca de un producto terminado. No especifican arquitectura, tecnología ni stack en el nombre, solo el nombre del proyecto.
+
+<div align="center">
+  `project_name`
+</div>
+
+**Ejemplo:**
+
+<div align="center">
+  `the-weather`
+</div>
+
+---
+
 ## Featured Projects
 
 ![](assets/keep-three-tier-architecture-api-banner.png)
