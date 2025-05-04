@@ -1,9 +1,10 @@
-# Hello, I am Carlos Daniel!
+# Hello, I am Carlos Daniel!👋
 
 ![](assets/banner.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamcarlosdaniel/">LinkedIn</a> &middot;
+  <a href="https://www.youtube.com/@iam.carlosdaniel">YouTube</a> &middot; 
   <a href="https://iamcarlosdaniel.com">iamcarlosdaniel.com</a>
 </div>
 
@@ -27,7 +28,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-three-tier
 
 > [!NOTE]
 > For more information, visit the official repository of the project. <br/>
-> Project repository: [keep-api-three-tier](https://github.com/iamcarlosdaniel/keep-api-three-tier)
+> Project repository: [keep-api-three-tier](https://github.com/iamcarlosdaniel/keep-server-api-three-tier)
 
 ---
 
@@ -41,7 +42,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 > [!NOTE]
 > For more information, visit the official repository of the project. <br/>
-> Project repository: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-api-microservices)
+> Project repository: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-server-api-microservices)
 
 ## Naming Convention in the Repositories
 
@@ -77,3 +78,6 @@ These repositories are focused on solutions that are closer to a production envi
 
 > [!TIP]
 > An example of this naming convention can be found in the following project: [the-weather-client-web](https://github.com/iamcarlosdaniel/the-weather-client-web).
+
+> [!IMPORTANT]
+> While client and server are the most common types of projects, others—such as libraries—can also exist, so it's best not to limit yourself to just those two categories.s
