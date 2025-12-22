@@ -48,11 +48,15 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 The repositories in this profile are organized according to their purpose. To make them easier to find, I’ve established a naming convention that reflects each project’s focus.
 
-#### 1. Learning-Oriented Projects
+#### 1. Learning-focused Projects
 
 These repositories document my learning process with different technologies. Their names follow this pattern:
 
 ![](assets/naming_convention_one.png)
+
+```
+project_name - client/server - interface_type - language/base - stack/extra
+```
 
 > [!TIP]
 > An example of this naming convention can be found in the following project: [basic-todo-list-server-api-node-mongodb](https://github.com/iamcarlosdaniel/basic-todo-list-server-api-node-mongodb).
@@ -65,6 +69,10 @@ In this case, the goal is to showcase the project's structure from an architectu
 
 ![](assets/naming_convention_two.png)
 
+```
+project_name - client/server - interface_type - architecture
+```
+
 > [!TIP]
 > An example of this naming convention can be found in the following project: [keep-server-api-three-tier](https://github.com/iamcarlosdaniel/keep-server-api-three-tier).
 
@@ -76,8 +84,12 @@ These repositories are focused on solutions that are closer to a production envi
 
 ![](assets/naming_convention_three.png)
 
+```
+project_name - client/server - interface_type
+```
+
 > [!TIP]
 > An example of this naming convention can be found in the following project: [the-weather-client-web](https://github.com/iamcarlosdaniel/the-weather-client-web).
 
 > [!IMPORTANT]
-> While client and server are the most common types of projects, others—such as libraries—can also exist, so it's best not to limit yourself to just those two categories.s
+> Although client–server projects are the most common, there are others, such as libraries, so it is better not to limit oneself to only these categories.
