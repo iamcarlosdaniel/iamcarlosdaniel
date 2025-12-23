@@ -10,13 +10,19 @@
 
 <br/>
 
-Hi, I'm Carlos Daniel, a passionate web development student eager to grow in the digital world. I have solid knowledge of JavaScript, C++, NodeJS, Express, React, MongoDB, MySQL, and Firebase, with a focus on web design and backend development.
-
-Currently studying Computer Systems Engineering at the University of Valle (graduating December 2025), I’m motivated to join a collaborative team where I can contribute my energy and learn from experienced professionals.
+Computer Systems Engineering student with a passion for web development, especially in the backend area, and a growing interest in data analysis. I have experience in developing academic, personal, and third-party projects, as well as leading student communities. I stand out for my proactivity, continuous learning ability, and teamwork skills.
 
 I'm looking to apply my skills in a professional setting and connect with other web development experts, mentors, and industry leaders. Feel free to reach out for potential collaborations!
 
 ## Featured Projects
+
+<div align="center">
+<p><strong>Currently in Development</strong></p>
+</div>
+
+<br/>
+
+## Featured Open-Source Projects
 
 ![](assets/keep-three-tier-architecture-api-banner.png)
 
@@ -48,7 +54,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 The repositories in this profile are organized according to their purpose. To make them easier to find, I’ve established a naming convention that reflects each project’s focus.
 
-#### 1. Learning-focused Projects
+#### 1. Learning-Focused Projects
 
 These repositories document my learning process with different technologies. Their names follow this pattern:
 
