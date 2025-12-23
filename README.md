@@ -54,7 +54,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 The repositories in this profile are organized according to their purpose. To make them easier to find, I’ve established a naming convention that reflects each project’s focus.
 
-#### 1. Learning-Focused Projects
+### 1. Learning-Focused Projects
 
 These repositories document my learning process with different technologies. Their names follow this pattern:
 
@@ -69,7 +69,7 @@ project_name - client/server - interface_type - language/base - stack/extra
 
 ---
 
-#### 2. Architecture-Focused Projects
+### 2. Architecture-Focused Projects
 
 In this case, the goal is to showcase the project's structure from an architectural point of view. The name doesn’t include the technologies used, but rather the applied architecture.
 
@@ -84,7 +84,7 @@ project_name - client/server - interface_type - architecture
 
 ---
 
-#### 3. Production-Focused Projects
+### 3. Production-Focused Projects
 
 These repositories are focused on solutions that are closer to a production environment. They do not include details about the architecture, technology, or stack in the name, but they do specify whether the project is client-side or server-side, as well as the type of interface used, along with the project name.
 
