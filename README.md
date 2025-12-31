@@ -16,13 +16,28 @@ I'm looking to apply my skills in a professional setting and connect with other 
 
 ## Featured Projects
 
-<div align="center">
-<p><strong>Currently in Development</strong></p>
-</div>
+### amqp-suite
 
-<br/>
+[![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![MIT license](https://img.shields.io/badge/License-MIT-bridhtgreen?style=flat-square)](https://opensource.org/licenses/MIT)
+[![NPM downloads](https://img.shields.io/npm/dw/amqp-suite?color=bridhtgreen&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![stars](https://img.shields.io/github/stars/iamcarlosdaniel/amqp-suite)](https://github.com/iamcarlosdaniel/amqp-suite)
 
-## Featured Open-Source Projects
+![](assets/amqp_suite_banner.png)
+
+A simple and efficient AMQP (Advanced Message Queuing Protocol) client wrapper for Node.js that handles connection management, message publishing, and consuming messages from queues with a topic exchange. This package abstracts complex connection handling and simplifies AMQP usage in applications by providing easy-to-use methods for connecting, publishing, consuming, and gracefully shutting down the connection.
+
+```sh
+npm install amqp-suite
+```
+
+> [!NOTE]
+> For more information, visit the official repository of the project. <br/>
+> Project repository: [amqp-suite](https://github.com/iamcarlosdaniel/amqp-suite)
+
+---
+
+### Keep - Three-tier Architecture
 
 ![](assets/keep-three-tier-architecture-api-banner.png)
 
@@ -37,6 +52,8 @@ git clone https://github.com/iamcarlosdaniel/keep-api-three-tier
 > Project repository: [keep-api-three-tier](https://github.com/iamcarlosdaniel/keep-server-api-three-tier)
 
 ---
+
+### Keep - Microservices Architecture
 
 ![](assets/keep-microservices-architecture-banner.png)
 
