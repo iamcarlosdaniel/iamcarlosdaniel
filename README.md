@@ -63,10 +63,6 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## Guide for Repository Naming Convention
 
-Aquí tienes una traducción técnica y profesional al inglés, manteniendo el sentido, enfoque y propósito del texto original:
-
----
-
 In order to standardize software asset identification and ensure project traceability, the following naming convention is established. This structure enables immediate understanding of the domain, responsibility, and technology stack of each repository.
 
 The repository name is constructed using segments separated by hyphens (-), following this hierarchical order:
