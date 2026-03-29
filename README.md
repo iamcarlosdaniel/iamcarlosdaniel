@@ -35,7 +35,7 @@ npm install amqp-suite
 
 ---
 
-![](assets/keep-three-tier-architecture-api-banner.png)
+![](assets/keep_layered_architecture_banner.png)
 
 This API is part of a note-taking application designed with a three-tier architecture. The goal of this application is to provide those who are starting out in software development with a clear understanding of how an application can scale from a three-tier architecture to a microservices-based architecture. I hope you find it very useful.
 
@@ -49,7 +49,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-three-tier
 
 ---
 
-![](assets/keep-microservices-architecture-banner.png)
+![](assets/keep_microservices_architecture_banner.png)
 
 I want to start by saying that this repository is not like any other. My goal here is to share my experience learning this architecture with Node.js, to assist students who are beginning their journey in software development. I hope it will be of great help to you.
 
@@ -102,8 +102,9 @@ For projects requiring greater granularity, the nomenclature may be extended. If
 5. `message_broker`: Messaging infrastructure for asynchronous systems (e.g., rabbitmq, kafka).
 6. `flag`: Additional metadata or status indicator defined by the technical team (e.g., legacy, poc, v2).
 
-> [!TIP]
-> An example of this naming convention can be found in the following project: [basic-notes-app-layered-javascript-express-jwt-mongodb](https://github.com/iamcarlosdaniel/basic-notes-app-layered-javascript-express-jwt-mongodb).
-
 > [!NOTE]
 > All fields must be written strictly in lowercase, avoiding special characters or spaces.
+
+> [!TIP]
+> An example of this naming convention can be found in the following project: <br />
+> [basic-notes-app-layered-javascript-express-jwt-mongodb](https://github.com/iamcarlosdaniel/basic-notes-app-layered-javascript-express-jwt-mongodb).
