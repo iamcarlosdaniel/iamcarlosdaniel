@@ -14,7 +14,7 @@ Computer Systems Engineering student with a passion for web development, especia
 
 I'm looking to apply my skills in a professional setting and connect with other web development experts, mentors, and industry leaders. Feel free to reach out for potential collaborations!
 
-## Featured Projects
+## Featured projects
 
 ![](assets/amqp_suite_banner.png)
 
@@ -61,7 +61,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 > For more information, visit the official repository of the project. <br/>
 > Project repository: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-server-api-microservices)
 
-## Guide for Repository Naming Convention
+## Repository naming convention
 
 In order to standardize software asset identification and ensure project traceability, the following naming convention is established. This structure enables immediate understanding of the domain, responsibility, and technology stack of each repository.
 
@@ -86,6 +86,9 @@ The repository name is constructed using segments separated by hyphens (-), foll
   - `microservices`: Decoupled component within a distributed ecosystem.
   - `hexagonal`: Ports-and-adapters architecture.
 
+> [!TIP]
+> An example of this naming convention can be found in the following project: [keep-server-api-layered](https://github.com/iamcarlosdaniel/keep-server-api-layered).
+
 For projects requiring greater granularity, the nomenclature may be extended. If a field is not applicable, the segment is omitted while maintaining logical order:
 
 ```
@@ -98,6 +101,9 @@ For projects requiring greater granularity, the nomenclature may be extended. If
 4. `database`: Primary persistence engine (e.g., postgres, mongodb, redis).
 5. `message_broker`: Messaging infrastructure for asynchronous systems (e.g., rabbitmq, kafka).
 6. `flag`: Additional metadata or status indicator defined by the technical team (e.g., legacy, poc, v2).
+
+> [!TIP]
+> An example of this naming convention can be found in the following project: [basic-notes-app-layered-javascript-express-jwt-mongodb](https://github.com/iamcarlosdaniel/basic-notes-app-layered-javascript-express-jwt-mongodb).
 
 > [!NOTE]
 > All fields must be written strictly in lowercase, avoiding special characters or spaces.
