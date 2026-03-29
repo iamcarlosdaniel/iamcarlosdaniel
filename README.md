@@ -61,52 +61,47 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 > For more information, visit the official repository of the project. <br/>
 > Project repository: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-server-api-microservices)
 
-## Naming Convention in the Repositories
+## Guide for Repository Naming Convention
 
-The repositories in this profile are organized according to their purpose. To make them easier to find, I’ve established a naming convention that reflects each project’s focus.
-
-### 1. Learning-Focused Projects
-
-These repositories document my learning process with different technologies. Their names follow this pattern:
-
-![](assets/naming_convention_one.png)
-
-```
-project_name - client/server - interface_type - language/base - stack/extra
-```
-
-> [!TIP]
-> An example of this naming convention can be found in the following project: [basic-todo-list-server-api-node-mongodb](https://github.com/iamcarlosdaniel/basic-todo-list-server-api-node-mongodb).
+Aquí tienes una traducción técnica y profesional al inglés, manteniendo el sentido, enfoque y propósito del texto original:
 
 ---
 
-### 2. Architecture-Focused Projects
+In order to standardize software asset identification and ensure project traceability, the following naming convention is established. This structure enables immediate understanding of the domain, responsibility, and technology stack of each repository.
 
-In this case, the goal is to showcase the project's structure from an architectural point of view. The name doesn’t include the technologies used, but rather the applied architecture.
-
-![](assets/naming_convention_two.png)
+The repository name is constructed using segments separated by hyphens (-), following this hierarchical order:
 
 ```
-project_name - client/server - interface_type - architecture
+[project_name] - [client/server] - [interface_type] - [architecture] - [stack](optional)
 ```
 
-> [!TIP]
-> An example of this naming convention can be found in the following project: [keep-server-api-three-tier](https://github.com/iamcarlosdaniel/keep-server-api-three-tier).
+- `project_name`: Unique project identifier. Kebab-case must be used (words separated by hyphens).
 
----
+- `client/server`: Defines the component’s responsibility within the client-server model.
 
-### 3. Production-Focused Projects
+- `interface_type`: Classifies the entry point or nature of the project:
+  - `web`: Browser-based applications.
+  - `mobile`: Native or hybrid mobile applications.
+  - `api`: Backend services (REST, GraphQL, gRPC).
+  - `cli`: Command-line interface tools.
 
-These repositories are focused on solutions that are closer to a production environment. They do not include details about the architecture, technology, or stack in the name, but they do specify whether the project is client-side or server-side, as well as the type of interface used, along with the project name.
+- `architecture`: Specifies the predominant architectural pattern to guide developers on code organization:
+  - `layered`: Traditional layered architecture.
+  - `microservices`: Decoupled component within a distributed ecosystem.
+  - `hexagonal`: Ports-and-adapters architecture.
 
-![](assets/naming_convention_three.png)
+For projects requiring greater granularity, the nomenclature may be extended. If a field is not applicable, the segment is omitted while maintaining logical order:
 
 ```
-project_name - client/server - interface_type
+[language/base] - [framework/base_library] - [auth_type] - [database] - [message_broker] - [flag]
 ```
 
-> [!TIP]
-> An example of this naming convention can be found in the following project: [the-weather-client-web](https://github.com/iamcarlosdaniel/the-weather-client-web).
+1. `language/base`: Base programming language (e.g., node, java, python).
+2. `framework/base_library`: Primary framework or library (e.g., express, spring, react).
+3. `auth_type`: Security mechanism or identity protocol (e.g., jwt, oauth2, firebase).
+4. `database`: Primary persistence engine (e.g., postgres, mongodb, redis).
+5. `message_broker`: Messaging infrastructure for asynchronous systems (e.g., rabbitmq, kafka).
+6. `flag`: Additional metadata or status indicator defined by the technical team (e.g., legacy, poc, v2).
 
-> [!IMPORTANT]
-> Although client–server projects are the most common, there are others, such as libraries, so it is better not to limit oneself to only these categories.
+> [!NOTE]
+> All fields must be written strictly in lowercase, avoiding special characters or spaces.
