@@ -10,9 +10,7 @@
 
 <br/>
 
-Computer Systems Engineering student with a passion for web development, especially in the backend area, and a growing interest in data analysis. I have experience in developing academic, personal, and third-party projects, as well as leading student communities. I stand out for my proactivity, continuous learning ability, and teamwork skills.
-
-I'm looking to apply my skills in a professional setting and connect with other web development experts, mentors, and industry leaders. Feel free to reach out for potential collaborations!
+Computer Systems Engineer with experience in backend software development and building scalable applications. I have participated in academic, practical, and professional projects, standing out in the design and implementation of architectures, process optimization, and the development of robust solutions in distributed environments. I am seeking opportunities in software development where I can continue to grow and contribute value through solid and scalable technological solutions.
 
 ## Featured projects
 
