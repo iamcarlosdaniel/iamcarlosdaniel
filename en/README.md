@@ -12,9 +12,12 @@
 
 Computer Systems Engineer with experience in frontend and backend application software development. I have participated in academic, practical, and professional projects, standing out in the design and implementation of robust and scalable solutions using architectures oriented toward distributed environments, as well as in process optimization and the continuous improvement of performance and maintainability.
 
+> [!NOTE]
+> El contenido de este documento también está disponible en [_español_](/es/README.md).
+
 ## Featured projects
 
-![](assets/amqp_suite_banner.png)
+![](/assets/amqp_suite_banner.png)
 
 [![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
 [![MIT license](https://img.shields.io/badge/License-MIT-bridhtgreen?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -33,7 +36,7 @@ npm install amqp-suite
 
 ---
 
-![](assets/keep_layered_architecture_banner.png)
+![](/assets/keep_layered_architecture_banner.png)
 
 This API is part of a note-taking application designed with a three-tier architecture. The goal of this application is to provide those who are starting out in software development with a clear understanding of how an application can scale from a three-tier architecture to a microservices-based architecture. I hope you find it very useful.
 
@@ -47,7 +50,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-three-tier
 
 ---
 
-![](assets/keep_microservices_architecture_banner.png)
+![](/assets/keep_microservices_architecture_banner.png)
 
 I want to start by saying that this repository is not like any other. My goal here is to share my experience learning this architecture with Node.js, to assist students who are beginning their journey in software development. I hope it will be of great help to you.
 
