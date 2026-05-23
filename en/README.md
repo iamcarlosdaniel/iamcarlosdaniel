@@ -1,6 +1,6 @@
 # Hello, I am Carlos Daniel!👋
 
-![](assets/banner.png)
+![](/assets/banner.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamcarlosdaniel/">LinkedIn</a> &middot;
@@ -13,7 +13,7 @@
 Computer Systems Engineer with experience in frontend and backend application software development. I have participated in academic, practical, and professional projects, standing out in the design and implementation of robust and scalable solutions using architectures oriented toward distributed environments, as well as in process optimization and the continuous improvement of performance and maintainability.
 
 > [!NOTE]
-> El contenido de este documento también está disponible en [_español_](/es/README.md).
+> El contenido de este documento también está disponible en [español](/es/README.md).
 
 ## Featured projects
 
@@ -64,6 +64,6 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## How do I name my repositories?
 
-This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [_Repository Naming Convention_](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
+This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [Repository Naming Convention](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
 
 Built with ❤ by Carlos Daniel
