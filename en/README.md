@@ -62,6 +62,10 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 > For more information, visit the official repository of the project. <br/>
 > Project repository: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-server-api-microservices)
 
+## More projects
+
+- [basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose)
+
 ## How do I name my repositories?
 
 This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [Repository Naming Convention](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
