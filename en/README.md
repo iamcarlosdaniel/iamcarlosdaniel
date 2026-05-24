@@ -66,21 +66,13 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 - [**basic-notes-app**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
 
-- <details>
-
-  <summary><strong>basic-notes-app-microservices</strong>--javascript-express-jwt-postgresql-prisma-kafka</summary>
-    
+- **basic-notes-app-microservices**--javascript-express-jwt-postgresql-prisma-kafka
   - [**basic-notes-app-iam-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
   - [**basic-notes-app-note-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
   - [**basic-notes-app-tag-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
 
-  </details>
-
 - [**mageo**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose]()
-- [**eclipsia**--client-web--vanilla]()
 - [**park-finder**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/park-finder--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
-- [**travel**--client-web--vanilla]()
-- [**the-weather**--client-web--vanilla]()
 
 ## How do I name my repositories?
 
