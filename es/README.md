@@ -64,11 +64,11 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## Más proyectos
 
-- [basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose)
+- [basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
 
 ## ¿Cómo nombro mis repositorios?
 
-This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [_Repository Naming Convention_](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
+This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [Repository Naming Convention](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
 
 Esta es una pregunta que todos los desarrolladores se hacen con el objetivo de mantener una estructura de nombres más organizada. Por esta razón, creé la [Repository Naming Convention (Convención de Nombres para Repositorios)](https://github.com/iamcarlosdaniel/repository-naming-convention), una convención que ayuda a estandarizar el nombrado de los repositorios de proyectos, sin importar cuál sea su propósito.
 
