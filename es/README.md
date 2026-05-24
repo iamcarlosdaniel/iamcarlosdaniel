@@ -15,7 +15,7 @@ Ingeniero en Sistemas Informáticos con experiencia en el desarrollo de aplicaci
 > [!NOTE]
 > The content of this document is also available in [english](/en/README.md).
 
-## Featured projects
+## Proyectos destacados
 
 ![](/assets/amqp_suite_banner.png)
 
@@ -61,6 +61,10 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 > [!NOTE]
 > Para más información, visita el repositorio oficial del proyecto. <br/>
 > Repositorio del proyecto: [keep-api-microservices](https://github.com/iamcarlosdaniel/keep-server-api-microservices)
+
+## Más proyectos
+
+- [basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--typescript-express-jwt-mongodb-mongoose)
 
 ## ¿Cómo nombro mis repositorios?
 
