@@ -17,7 +17,7 @@ Ingeniero en Sistemas Informáticos con experiencia en el desarrollo de aplicaci
 
 ## Proyectos destacados
 
-![](/assets/amqp_suite_banner.png)
+[![amqp-suite banner](/assets/amqp_suite_banner.png)](https://github.com/iamcarlosdaniel/amqp-suite)
 
 [![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
 [![MIT license](https://img.shields.io/badge/License-MIT-bridhtgreen?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -64,11 +64,19 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## Más proyectos
 
-- [basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
+- [**basic-notes-app**--client-web--typescript-react-tailwindcss]()
+
+- [**basic-notes-app**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
+
+- **basic-notes-app-microservices**--javascript-express-jwt-postgresql-prisma-kafka
+  - [**basic-notes-app-iam-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
+  - [**basic-notes-app-note-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
+  - [**basic-notes-app-tag-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
+
+> [!TIP]
+> Puedes ver todos mis proyectos en la pestaña [Repositorios](https://github.com/iamcarlosdaniel?tab=repositories).
 
 ## ¿Cómo nombro mis repositorios?
-
-This is a question that all developers ask themselves with the goal of maintaining a more organized naming structure. For this reason, I created the [Repository Naming Convention](https://github.com/iamcarlosdaniel/repository-naming-convention), a convention that helps standardize the naming of project repositories, regardless of their purpose.
 
 Esta es una pregunta que todos los desarrolladores se hacen con el objetivo de mantener una estructura de nombres más organizada. Por esta razón, creé la [Repository Naming Convention (Convención de Nombres para Repositorios)](https://github.com/iamcarlosdaniel/repository-naming-convention), una convención que ayuda a estandarizar el nombrado de los repositorios de proyectos, sin importar cuál sea su propósito.
 
