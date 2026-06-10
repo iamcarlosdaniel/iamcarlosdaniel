@@ -19,9 +19,10 @@ Computer Systems Engineer with experience in frontend and backend application so
 
 [![amqp-suite banner](/assets/amqp_suite_banner.png)](https://github.com/iamcarlosdaniel/amqp-suite)
 
-[![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
-[![MIT license](https://img.shields.io/badge/License-MIT-bridhtgreen?style=flat-square)](https://opensource.org/licenses/MIT)
-[![NPM downloads](https://img.shields.io/npm/dw/amqp-suite?color=bridhtgreen&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&labelColor=343B42&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![Run Tests](https://github.com/iamcarlosdaniel/amqp-suite/actions/workflows/run-tests.yml/badge.svg)](https://github.com/iamcarlosdaniel/amqp-suite/actions/workflows/run-tests.yml)
+[![GitHub license](https://img.shields.io/badge/License-MIT-bridhtgreen?labelColor=343B42&style=flat-square)](https://opensource.org/licenses/MIT)
+![NPM Downloads](https://img.shields.io/npm/dw/amqp-suite?label=Downloads&color=brightgreen&labelColor=343B42&style=flat-square)
 [![stars](https://img.shields.io/github/stars/iamcarlosdaniel/amqp-suite)](https://github.com/iamcarlosdaniel/amqp-suite)
 
 A simple and efficient AMQP (Advanced Message Queuing Protocol) client wrapper for Node.js that handles connection management, message publishing, and consuming messages from queues with a topic exchange. This package abstracts complex connection handling and simplifies AMQP usage in applications by providing easy-to-use methods for connecting, publishing, consuming, and gracefully shutting down the connection.
