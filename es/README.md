@@ -19,9 +19,10 @@ Ingeniero en Sistemas Informáticos con experiencia en el desarrollo de aplicaci
 
 [![amqp-suite banner](/assets/amqp_suite_banner.png)](https://github.com/iamcarlosdaniel/amqp-suite)
 
-[![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
-[![MIT license](https://img.shields.io/badge/License-MIT-bridhtgreen?style=flat-square)](https://opensource.org/licenses/MIT)
-[![NPM downloads](https://img.shields.io/npm/dw/amqp-suite?color=bridhtgreen&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![NPM version](https://img.shields.io/npm/v/amqp-suite?color=1447e6&labelColor=343B42&style=flat-square)](https://www.npmjs.com/package/amqp-suite)
+[![Run Tests](https://github.com/iamcarlosdaniel/amqp-suite/actions/workflows/run-tests.yml/badge.svg)](https://github.com/iamcarlosdaniel/amqp-suite/actions/workflows/run-tests.yml)
+[![GitHub license](https://img.shields.io/badge/License-MIT-bridhtgreen?labelColor=343B42&style=flat-square)](https://opensource.org/licenses/MIT)
+![NPM Downloads](https://img.shields.io/npm/dw/amqp-suite?label=Downloads&color=brightgreen&labelColor=343B42&style=flat-square)
 [![stars](https://img.shields.io/github/stars/iamcarlosdaniel/amqp-suite)](https://github.com/iamcarlosdaniel/amqp-suite)
 
 Un simple y eficiente envoltorio de cliente AMQP (Protocolo Avanzado de Cola de Mensajes) para Node.js que maneja la gestión de conexiones, la publicación de mensajes, y el consumir mensajes desde colas con un intercambio de tema. Este paquete abstrae el manejo complejo de conexiones y simplifica el uso de AMQP en aplicaciones al proveer métodos fáciles de usar para conectar, publicar, consumir, y apagar elegantemente la conexión.
