@@ -65,17 +65,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## Más proyectos
 
-- [**basic-notes-app**--client-web--typescript-react-tailwindcss]()
-
-- [**basic-notes-app**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
-
-- **basic-notes-app-microservices**--javascript-express-jwt-postgresql-prisma-kafka
-  - [**basic-notes-app-iam-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-  - [**basic-notes-app-note-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-  - [**basic-notes-app-tag-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-
-> [!TIP]
-> Puedes ver todos mis proyectos en la pestaña [Repositorios](https://github.com/iamcarlosdaniel?tab=repositories).
+Puedes ver todos mis proyectos en la pestaña [Repositorios](https://github.com/iamcarlosdaniel?tab=repositories).
 
 ## ¿Cómo nombro mis repositorios?
 
