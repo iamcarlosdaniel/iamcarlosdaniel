@@ -65,17 +65,7 @@ git clone https://github.com/iamcarlosdaniel/keep-api-microservices
 
 ## More projects
 
-- [**basic-notes-app**--client-web--typescript-react-tailwindcss]()
-
-- [**basic-notes-app**--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose](https://github.com/iamcarlosdaniel/basic-notes-app--server-api-rest-layered--javascript-express-jwt-mongodb-mongoose)
-
-- **basic-notes-app-microservices**--javascript-express-jwt-postgresql-prisma-kafka
-  - [**basic-notes-app-iam-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-  - [**basic-notes-app-note-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-  - [**basic-notes-app-tag-microservice**--server-api-rest-layered--javascript-express-jwt-postgresql-prisma-kafka](https://github.com/iamcarlosdaniel/)
-
-> [!TIP]
-> You can check out all my projects in the [Repositories](https://github.com/iamcarlosdaniel?tab=repositories) tab.
+You can check out all my projects in the [Repositories](https://github.com/iamcarlosdaniel?tab=repositories) tab.
 
 ## How do I name my repositories?
 
